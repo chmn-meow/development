@@ -1,0 +1,1 @@
+This area is reserved for playing around with all things Python.  You are free to peruse all scripts.  A few of these are adapted/translated exercises in Python2 to Python3.  GNU applies to most of these, I suppose, but it's just a bunch of tooling around.

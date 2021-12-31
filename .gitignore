@@ -1,17 +1,13 @@
 /.vscode
-/bagels.py
 /bhservice.py
-/birthdayparadox.py
 /blackjack.py
 /bmp_world.py
 /bouncing_dvd_logo.py
 /client1.py
-/c_cipher.py
 /development.code-workspace
 /example.py
 /file_monitor1.py
 /file_monitor2.py
-/file_system_monitor.py
 /gotcha.py
 /netcat.py
 /netcat2.py
@@ -19,8 +15,5 @@
 /process_monitor1.py
 /process_monitor2.py
 /process_monitor_log.csv
-/server1.py
-/udp1.py
-/udp2.py
 /venv
 /__pycache__
